@@ -1,6 +1,6 @@
 # Rate My Style
 
-A Fashion Rating Web Application built with ASP.NET Web Forms and C#, developed as a Foundation Year Computing project (awarded a First Class).
+A Fashion Rating Web Application built with ASP.NET Web Forms and C#, developed as a Foundation Year Computing Project at University of Essex (awarded a First Class).
 
 ## Overview
 
