@@ -36,9 +36,9 @@ Rate My Style is a community-driven platform where users can share their outfits
 
 The application uses a Microsoft Access database (`RateStyle.accdb`) with three tables:
 
-- **Registration** — stores user accounts (`ID`, `FirstName`, `LastName`, `Email`, `Username`, `Password`)
-- **Garments** — stores uploaded outfit entries (`ID`, `Item`, `Colour`, `Shop`, `Price`, `Image`)
-- **Rating** — stores user ratings per garment (`Rate`, `GID` [Garment ID], `RID` [Rater's User ID])
+- **Registration**: stores user accounts (`ID`, `FirstName`, `LastName`, `Email`, `Username`, `Password`)
+- **Garments**: stores uploaded outfit entries (`ID`, `Item`, `Colour`, `Shop`, `Price`, `Image`)
+- **Rating**: stores user ratings per garment (`Rate`, `GID` [Garment ID], `RID` [Rater's User ID])
 
 ## Getting Started
 
