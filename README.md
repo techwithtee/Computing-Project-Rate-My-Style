@@ -1,6 +1,6 @@
 # Rate My Style
 
-A fashion rating web application built with ASP.NET Web Forms and C#, developed as a Foundation Year Computing project — awarded a First.
+A Fashion Rating Web Application built with ASP.NET Web Forms and C#, developed as a Foundation Year Computing project (awarded a First Class).
 
 ## Overview
 
@@ -8,11 +8,11 @@ Rate My Style is a community-driven platform where users can share their outfits
 
 ## Features
 
-- **User Registration & Login** — Secure account creation with username/password authentication; users are redirected back to the login page after successful registration
-- **Browse Styles** — A gallery page displaying all uploaded garment images, each clickable to view full details and leave a rating
-- **Rate Outfits** — Users can rate any garment on a scale of 1–5, with their existing rating displayed on return visits
-- **Upload Garments** — Authenticated users can upload a photo of their outfit alongside item details (name, colour, shop, price), which are saved to the database and image store
-- **Session Management** — User sessions are maintained across pages; logout returns the user to the homepage
+- **User Registration & Login**: Secure account creation with username/password authentication; users are redirected back to the login page after successful registration
+- **Browse Styles**: A gallery page displaying all uploaded garment images, each clickable to view full details and leave a rating
+- **Rate Outfits**: Users can rate any garment on a scale of 1–5, with their existing rating displayed on return visits
+- **Upload Garments**: Authenticated users can upload a photo of their outfit alongside item details (name, colour, shop, price), which are saved to the database and image store
+- **Session Management**: User sessions are maintained across pages; logout returns the user to the homepage
 
 ## Pages
 
